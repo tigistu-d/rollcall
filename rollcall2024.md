@@ -2,3 +2,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 
 ## **Name and GitHub username/profile**
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Tigistu Korga - [tigistu-d](https://github.com/tigistu-d)
